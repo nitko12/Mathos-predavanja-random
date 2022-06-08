@@ -1,0 +1,20 @@
+segtree
+https://cses.fi/problemset/task/1648
+https://cses.fi/problemset/task/1143
+https://cses.fi/problemset/task/1749
+https://cses.fi/problemset/task/1144
+https://codeforces.com/contest/339/problem/D
+
+fenwick:
+https://csacademy.com/contest/archive/task/right-triangles/
+https://codeforces.com/gym/100741/problem/A
+https://codeforces.com/contest/61/problem/E
+
+segtree dp
+https://cses.fi/problemset/task/1145
+https://codeforces.com/contest/1296/problem/E2
+https://codeforces.com/contest/487/problem/B
+
+segtree (hard)
+https://codeforces.com/contest/474/problem/F
+https://codeforces.com/contest/920/problem/F

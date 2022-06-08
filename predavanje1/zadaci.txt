@@ -1,0 +1,12 @@
+514 - stack
+10189 - 2d array
+10935 - deque
+11849 - set
+484 - map/vector
+1203 - pq
+10282 - map
+11039 - sort/unique
+11308 - map
+11629 - map
+12100 - queue/vector/sort
+11995 - stack/queue/pq

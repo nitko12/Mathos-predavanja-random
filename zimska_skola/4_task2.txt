@@ -1,0 +1,32 @@
+a -> a
+b -> m
+c -> o
+d -> g
+e -> e
+f -> i
+g -> r
+h -> k
+i -> w
+j -> c
+k -> q
+l -> f
+m -> x
+n -> t
+o -> u
+p -> j
+q -> y
+r -> b
+s -> s
+t -> p
+u -> d
+v -> n
+w -> v
+x -> z
+y -> h
+z -> l
+The Enigma machine is a cipher device developed and used in the early- to mid-20th century to protect commercial, diplomatic, and military communication. It was employed extensively by Nazi Germany during World War II, in all branches of the German military. The Enigma machine was considered so secure that it was used to encipher the most top-secret messages.[1]
+The Enigma has an electromechanical rotor mechanism that scrambles the 26 letters of the alphabet. In typical use, one person enters text on the Enigma's keyboard and another person writes down which of 26 lights above the keyboard illuminated at each key press. If plain text is entered, the illuminated letters are the encoded ciphertext. Entering ciphertext transforms it back into readable plaintext. The rotor mechanism changes the electrical connections between the keys and the lights with each keypress.
+The security of the system depends on machine settings that were generally changed daily, based on secret key lists distributed in advance, and on other settings that were changed for each message. The receiving station would have to know and use the exact settings employed by the transmitting station to successfully decrypt a message.
+While Nazi Germany introduced a series of improvements to Enigma over the years, and these hampered decryption efforts, they did not prevent Poland from cracking the machine prior to the war, enabling the Allies to exploit Enigma-enciphered messages as a major source of intelligence.[2] Many commentators say the flow of Ultra communications intelligence from the decryption of Enigma, Lorenz, and other ciphers, shortened the war substantially, and might even have altered its outcome.[3]
+The Enigma machine was invented by German engineer Arthur Scherbius at the end of World War I.[4] This was unknown until 2003 when a paper by Karl de Leeuw was found that described in detail Scherbius' changes.[5] The German firm Scherbius & Ritter, co-founded by Scherbius, patented ideas for a cipher machine in 1918 and began marketing the finished product under the brand name Enigma in 1923, initially targeted at commercial markets.[6] The name is said to be from the Enigma Variations of English composer Edward Elgar.[dubious – discuss][7] Early models were used commercially from the early 1920s, and adopted by military and government services of several countries, most notably Nazi Germany before and during World War II.[8]
+Several different Enigma models were produced, but the German military models, having a plugboard, were the most complex. Japanese and Italian models were also in use. With its adoption (in slightly modified form) by the German Navy in 1926 and the German Army and Air Force soon after, the name Enigma became widely known in military circles. Pre-war German military planning emphasized fast, mobile forces and tactics, later known as blitzkrieg, which depend on radio communication for command and coordination. Since adversaries would likely intercept radio signals, messages had to be protected with secure encipherment. Compact and easily portable, the Enigma machine filled that need.

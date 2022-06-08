@@ -1,0 +1,12 @@
+https://cses.fi/problemset/task/1655/
+https://codeforces.com/contest/706/problem/D
+
+trie dp:
+https://cses.fi/problemset/task/1731
+
+suffix trie:
+https://vjudge.net/problem/UVA-11512
+
+random:
+https://atcoder.jp/contests/abc227/tasks/abc227_g
+https://cses.fi/problemset/task/1097

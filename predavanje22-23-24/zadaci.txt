@@ -1,0 +1,25 @@
+https://codeforces.com/contest/1182/problem/A
+https://codeforces.com/contest/621/problem/B
+https://codeforces.com/contest/1096/problem/B
+https://codeforces.com/contest/817/problem/B
+
+https://atcoder.jp/contests/abc159/tasks/abc159_d
+https://atcoder.jp/contests/abc137/tasks/abc137_c
+https://atcoder.jp/contests/abc046/tasks/abc046_b
+https://atcoder.jp/contests/abc065/tasks/arc076_a
+https://atcoder.jp/contests/agc031/tasks/agc031_a
+https://atcoder.jp/contests/arc066/tasks/arc066_a
+
+https://codeforces.com/contest/1195/problem/D1
+https://codeforces.com/contest/1195/problem/D2
+
+
+https://atcoder.jp/contests/abc145/tasks/abc145_d
+https://atcoder.jp/contests/abc156/tasks/abc156_d
+https://atcoder.jp/contests/abc132/tasks/abc132_d ?
+---
+https://atcoder.jp/contests/abc042/tasks/arc058_a
+https://atcoder.jp/contests/abc151/tasks/abc151_e
+https://atcoder.jp/contests/abc156/tasks/abc156_e
+https://atcoder.jp/contests/abc066/tasks/arc077_b
+https://atcoder.jp/contests/abc042/tasks/arc058_b

@@ -1,0 +1,6 @@
+https://cses.fi/problemset/task/1753 (kmp)
+https://cses.fi/problemset/task/1732 (kmp)
+https://codeforces.com/contest/114/problem/D
+https://cses.fi/problemset/task/1110
+https://cses.fi/problemset/task/1111
+https://codeforces.com/contest/1138/problem/D

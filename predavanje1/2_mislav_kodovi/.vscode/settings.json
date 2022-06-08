@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "algorithm": "cpp",
+    "tuple": "cpp",
+    "memory": "cpp",
+    "utility": "cpp",
+    "stack": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp"
+  }
+}
